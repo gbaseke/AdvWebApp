@@ -14,7 +14,7 @@
 ## 🏗️ Milestone 1: Foundation & Setup (Week 1-2)
 
 ### Project Initialization
-- [ ] 🔴 Create GitHub/Azure DevOps repository with proper .gitignore files ⏱️ 1h 👤 DO
+- [x] 🔴 Create GitHub/Azure DevOps repository with proper .gitignore files ⏱️ 1h 👤 DO
 - [ ] 🔴 Set up project folder structure according to Clean Architecture ⏱️ 2h 👤 FS
 - [ ] 🔴 Create initial README.md with project overview ⏱️ 1h 👤 FS
 - [ ] 🔴 Set up branch protection rules and PR templates ⏱️ 1h 👤 DO
