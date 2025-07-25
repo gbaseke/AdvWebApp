@@ -1,5 +1,7 @@
 # Claude.md - Adventure Works E-Commerce Project Guide
 
+Alaways read planning.md file at the start of every new conversation, check taks.md before starting your work, mark completed tasks to tasks.md immediately, and add newly discovered tasks to tasks.md when
+
 ## 📝 Session Summary
 
 ### Session Date: July 21, 2025

@@ -15,16 +15,16 @@
 
 ### Project Initialization
 - [x] 🔴 Create GitHub/Azure DevOps repository with proper .gitignore files ⏱️ 1h 👤 DO
-- [ ] 🔴 Set up project folder structure according to Clean Architecture ⏱️ 2h 👤 FS
+- [x] 🔴 Set up project folder structure according to Clean Architecture ⏱️ 2h 👤 FS
 - [ ] 🔴 Create initial README.md with project overview ⏱️ 1h 👤 FS
 - [ ] 🔴 Set up branch protection rules and PR templates ⏱️ 1h 👤 DO
 - [ ] 🟡 Configure code owners file ⏱️ 0.5h 👤 DO
 
 ### Backend Foundation
-- [ ] 🔴 Create ASP.NET Core 8.0 Web API project ⏱️ 1h 👤 BE
-- [ ] 🔴 Set up Clean Architecture project structure (Domain, Application, Infrastructure, API) ⏱️ 3h 👤 BE
-- [ ] 🔴 Configure appsettings.json for different environments ⏱️ 1h 👤 BE
-- [ ] 🔴 Install and configure essential NuGet packages (EF Core, AutoMapper, MediatR) ⏱️ 2h 👤 BE
+- [x] 🔴 Create ASP.NET Core 8.0 Web API project ⏱️ 1h 👤 BE
+- [x] 🔴 Set up Clean Architecture project structure (Domain, Application, Infrastructure, API) ⏱️ 3h 👤 BE
+- [x] 🔴 Configure appsettings.json for different environments ⏱️ 1h 👤 BE
+- [x] 🔴 Install and configure essential NuGet packages (EF Core, JWT, Swagger) ⏱️ 2h 👤 BE
 - [ ] 🔴 Set up dependency injection container ⏱️ 2h 👤 BE
 - [ ] 🔴 Configure Serilog for structured logging ⏱️ 2h 👤 BE
 - [ ] 🔴 Implement global exception handling middleware ⏱️ 3h 👤 BE
